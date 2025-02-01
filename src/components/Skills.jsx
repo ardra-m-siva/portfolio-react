@@ -65,7 +65,7 @@ const Skills = () => {
 
                         {/* Right Section - Services */}
                         <div className="col-md-4 col-sm-12 mb-4">
-                            <h2 className="text-center mb-5 fw-bold services-heading" style={{ color: "#76ABAE" }}>MY SERVICES</h2>
+                            <h2 className="text-center mb-5 fw-bold services-heading" style={{ color: "#00F5FF" }}>MY SERVICES</h2>
                             <div className="row text-center justify-content-evenly d-flex">
                                 {[
                                     { name: "Web Development", color: "#ff5722", icon: "fa-laptop-code", description: "Creating responsive and visually appealing websites using the latest technologies." },
